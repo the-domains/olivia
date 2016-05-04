@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Olivia Elder]]></title>
         <description><![CDATA[Olivia Elder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://oliviaelder.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 02:13:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 02:13:53 GMT</lastBuildDate>
+        <atom:link href="http://oliviaelder.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4268e9f-1c7d-457c-865b-cc1c6e43f8a2.png">]]></description>
-            <link>undefineda2efad7b-f334-45b4-8be2-4196e186c011/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa009270391b44fd3a4d8c0d29b584006abdc603.png" alt="" title="" />]]></description>
+            <link>http://oliviaelder.com/a2efad7b-f334-45b4-8be2-4196e186c011/index.html</link>
             <guid isPermaLink="false">a2efad7b-f334-45b4-8be2-4196e186c011</guid>
-            <pubDate>Wed, 04 May 2016 02:12:00 GMT</pubDate>
+            <pubDate>Wed, 04 May 2016 02:13:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
